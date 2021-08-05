@@ -1,0 +1,13 @@
+.meuEstiloFonte
+{
+    font-family: 'Courier New', Courier, monospace;
+    color :white;
+    font-size: 25pt;
+    text-align: center;
+    
+}
+
+.meuEstiloFonte2
+{
+    background-color:darkred
+}
